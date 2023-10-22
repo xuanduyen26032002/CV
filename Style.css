@@ -1,0 +1,68 @@
+body {
+    background-color: #D8BFD8;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: #D8BFD8;
+    color:aliceblue;
+    padding: 30px 0;
+}
+
+header h1, header h2 {
+    color: #fff;
+    margin: 0;
+}
+
+.profile-image{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.progress {
+    height: 10px;
+    border-radius: 5px;
+}
+
+.progress-bar {
+    background-color: aquamarine;
+    border-radius: 5px;
+}
+
+.card-content {
+    margin-top: 20px;
+}
+
+.card-content p {
+    margin: 0;
+}
+
+.list-unstyled li img {
+    width: 25px;
+}
+
+.list-unstyled li label {
+    text-indent: 10px;
+}
+
+.list-unstyled .sothich img {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.line {
+    background-color: azure;
+}
